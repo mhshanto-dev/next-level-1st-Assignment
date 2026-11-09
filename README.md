@@ -10,6 +10,18 @@
 
 #### Solutions.ts - > https://github.com/mhshanto-dev/next-level-1st-Assignment/blob/334886693ae8e25accb2b0e45922256affad9bb6/solutions.ts
 
+## My Blog Posts
+
+এই Assignment-এর অংশ হিসেবে TypeScript-এর দুটি গুরুত্বপূর্ণ বিষয় নিয়ে Blog লিখেছি।
+
+**1. Type Aliases and Interfaces**
+
+[Read Blog 1] (https://github.com/mhshanto-dev/next-level-1st-Assignment/blob/9208a413bcc1ad6e676cbe0d7bb471dffacaaf36/Type%20_Aliases_and_Interfaces-1.md)
+
+**2. Type Hierarchy: Working with Any, Unknown and Never**
+
+[Read Blog 2] https://github.com/mhshanto-dev/next-level-1st-Assignment/blob/9208a413bcc1ad6e676cbe0d7bb471dffacaaf36/Type_Hierarchy_Work_with_Any_Unknown_and_Never2.md
+
 ### 1. Functions
 
 - Function তৈরি করা এবং Parameter ব্যবহার করা।
@@ -66,17 +78,7 @@
 - `Error` ব্যবহার করে Error Handle করা।
 - `async` এবং `await` সম্পর্কে ধারণা নেওয়া।
 
-## My Blog Posts
 
-এই Assignment-এর অংশ হিসেবে TypeScript-এর দুটি গুরুত্বপূর্ণ বিষয় নিয়ে Blog লিখেছি।
-
-**1. Type Aliases and Interfaces**
-
-[Read Blog 1] (https://github.com/mhshanto-dev/next-level-1st-Assignment/blob/9208a413bcc1ad6e676cbe0d7bb471dffacaaf36/Type%20_Aliases_and_Interfaces-1.md)
-
-**2. Type Hierarchy: Working with Any, Unknown and Never**
-
-[Read Blog 2] https://github.com/mhshanto-dev/next-level-1st-Assignment/blob/9208a413bcc1ad6e676cbe0d7bb471dffacaaf36/Type_Hierarchy_Work_with_Any_Unknown_and_Never2.md
 
 ## এই Assignment থেকে যা শিখেছি
 
