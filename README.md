@@ -6,7 +6,9 @@
 
 প্রতিটি Problem সমাধান করার সময় শুধু কোড লেখার চেষ্টা করিনি, বরং কোন জায়গায় কোন Type ব্যবহার করতে হয় এবং কেন ব্যবহার করতে হয়, সেটাও বোঝার চেষ্টা করেছি।
 
-## ৮টি Problem সমাধান করতে যা যা ব্যবহার করেছি
+## ৮টি Problem সমাধান করতে যা যা ব্যবহার করেছি 
+
+#### Solutions.ts - > https://github.com/mhshanto-dev/next-level-1st-Assignment/blob/334886693ae8e25accb2b0e45922256affad9bb6/solutions.ts
 
 ### 1. Functions
 
