@@ -1,13 +1,12 @@
-# next-level-1st-Assignment
 # Next Level Assignment 1 – TypeScript
 
-## 📌 Assignment সম্পর্কে
+## Assignment সম্পর্কে
 
 এই Repository-তে আমার Next Level Assignment 1-এর কাজগুলো রাখা হয়েছে। এখানে আমি মোট ৮টি TypeScript Problem সমাধান করেছি এবং TypeScript-এর গুরুত্বপূর্ণ কিছু বিষয় নিয়ে দুটি Technical Blog লিখেছি।
 
 প্রতিটি Problem সমাধান করার সময় শুধু কোড লেখার চেষ্টা করিনি, বরং কোন জায়গায় কোন Type ব্যবহার করতে হয় এবং কেন ব্যবহার করতে হয়, সেটাও বোঝার চেষ্টা করেছি।
 
-## 💻 ৮টি Problem সমাধান করতে যা যা ব্যবহার করেছি
+## ৮টি Problem সমাধান করতে যা যা ব্যবহার করেছি
 
 ### 1. Functions
 
@@ -65,7 +64,7 @@
 - `Error` ব্যবহার করে Error Handle করা।
 - `async` এবং `await` সম্পর্কে ধারণা নেওয়া।
 
-## 📚 My Blog Posts
+## My Blog Posts
 
 এই Assignment-এর অংশ হিসেবে TypeScript-এর দুটি গুরুত্বপূর্ণ বিষয় নিয়ে Blog লিখেছি।
 
@@ -77,7 +76,7 @@
 
 [Read Blog 2] https://github.com/mhshanto-dev/next-level-1st-Assignment/blob/9208a413bcc1ad6e676cbe0d7bb471dffacaaf36/Type_Hierarchy_Work_with_Any_Unknown_and_Never2.md
 
-## 🎯 এই Assignment থেকে যা শিখেছি
+## এই Assignment থেকে যা শিখেছি
 
 এই Assignment করার মাধ্যমে TypeScript সম্পর্কে আমার ধারণা আরও পরিষ্কার হয়েছে। বিশেষ করে JavaScript-এর সাধারণ Function, Array এবং Object-এর পাশাপাশি TypeScript-এ কীভাবে Type নির্ধারণ করতে হয়, সেটা শিখেছি।
 
